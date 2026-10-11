@@ -1,0 +1,20 @@
+# Build output
+build/
+
+# APKs go in GitHub releases, and signing keys stay with whoever signs.
+*.apk
+*.jks
+*.keystore
+
+# Editors
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Agents
+.claude/
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
